@@ -29,6 +29,7 @@
   <img src="https://img.icons8.com/ios-filled/50/228BE6/typescript.png"/>
   <img src="https://img.icons8.com/ios/50/228BE6/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/228BE6/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
