@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Phung Ngoc Tan developer</h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript,Tyscript, React, MERN Stack, MVC, Prisma Project etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😍
-- 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
+
+- 👨‍💻 Currently,i'm working on web development technologies like JavaScript,Tyscript, Java, React, MERN Stack, MVC, Prisma Project etc.
+- 📚 I’m hightly interested with Backend and Frontend 😍
+- 🎯 In the future: Learn more technologies - Learning to become a full-stack developer.
 - ⚡ Fun facts: Open and friendly.
 
 
 ## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
