@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teachie</h1>
+<h1 align="center">Hi 👋, I'm Phung Ngoc Tan developer</h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript,Tyscript, React, MERN Stack, MVC, Prisma Project etc.
